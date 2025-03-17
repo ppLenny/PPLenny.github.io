@@ -13,7 +13,7 @@ header2 {
   background-color: #a49ee7 ;
   padding: 10px;
   text-align: left;
-  font-size: 20px;
+  font-size: 10px;
   color: white;
 }
 </style>
@@ -26,3 +26,6 @@ header2 {
 <br>
 <header2><font color="#120e44">Hey there! Welcome to my Personal, And portofolio website! In this website, you will see all of my various works.
 </font>
+<br>
+
+<h4><font color="#ffffff" face="Arial">My Itch.io :
