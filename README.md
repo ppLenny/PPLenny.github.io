@@ -1,8 +1,19 @@
-<head>PPLenny Portofolio's</head>
+<style>
+header {
+  border-radius: 25px;
+  background-color: #57519a;
+  padding: 10px;
+  text-align: left;
+  font-size: 15px;
+  color: white;
+  corner: 5px;
+}
+</style>
 
-<body style="background-color:orange"></body>
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
-<p><font face="cursive,serif">This is another paragraph.</font>
-<h2>Hey there! Welcome to my Personal, And portofolio website! In this website, you will see all of my various works.</h2>
+<header><font face="Arial"><b>PPLenny Portofolio's</head></header></b>
 
+<body style="background-color:#b2acef"></body>
+<font size="2" face="verdana">
+<h1><font color="#ffffff">Hi!</h1></font>
+<h3><font color="#120e44">Hey there! Welcome to my Personal, <br>And portofolio website! In this website, <br>you will see all of my various works.</h3></font>
+</font>
