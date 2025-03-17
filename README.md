@@ -25,7 +25,6 @@ header2 {
 <h1><font color="#ffffff">Hi!</font>
 <br>
 <header2><font color="#120e44">Hey there! Welcome to my Personal, And portofolio website! In this website, you will see all of my various works.
-</font>
+</font></header2>
 <br>
-
 <h4><font color="#ffffff" face="Arial">My Itch.io :
