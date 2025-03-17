@@ -23,5 +23,6 @@ header2 {
 <body style="background-color:#b2acef"></body>
 <font size="2" face="verdana">
 <h1><font color="#ffffff">Hi!</font>
-<header2><font color="#120e44">Hey there! Welcome to my Personal, <br>And portofolio website! In this website, <br>you will see all of my various works.
+<br>
+<header2><font color="#120e44">Hey there! Welcome to my Personal, And portofolio website! In this website, you will see all of my various works.
 </font>
